@@ -1,1 +1,1 @@
-# learning-pytho
+# learning-python
